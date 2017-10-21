@@ -1,0 +1,23 @@
+{
+  "name": "dev203x",
+  "version": "1.0.0",
+  "description": "EdX DEV203x",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bozhink/DEV203x.git"
+  },
+  "keywords": [
+    "EdX",
+    "Bootstrap"
+  ],
+  "author": "Bozhin Karaivanov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bozhink/DEV203x/issues"
+  },
+  "homepage": "https://github.com/bozhink/DEV203x#readme"
+}
